@@ -1,4 +1,4 @@
-## form based ui using react
+## form based ui using react [Type - Medium]
 
 ### problem includes 3 tabs : Profile | Interest | Settings , with specific requirements like age, email
 

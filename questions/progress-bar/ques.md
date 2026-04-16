@@ -1,4 +1,4 @@
-### Progress Bar
+### Progress Bar [Type - Easy]
 
 ```
 import { useEffect, useState } from "react";

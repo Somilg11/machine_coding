@@ -1,4 +1,4 @@
-## File Explorer / VS Code Sidebar
+## File Explorer / VS Code Sidebar [Type - Hard]
 
 - nested file folder structure
 - expand and collapse folder

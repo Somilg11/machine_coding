@@ -1,4 +1,4 @@
-## pagination in react
+## pagination in react [Type - Medium]
 
 ```
 // App.js
